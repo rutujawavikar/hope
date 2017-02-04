@@ -1,0 +1,39 @@
+<body>
+<style type="text/css">
+     
+     h1{
+      font-family: "papyrus",cursive,sans-serif;
+     color: #ef5350;
+     }
+     body{
+    background color: #f3e5f5;
+     }
+h3{
+  color: pink;
+}
+th{
+  color: purple;
+  font-family: "papyrus",cursive,sans-serif;
+}
+h2{
+  color: #b71c1c;
+  font-family: "papyrus",cursive,sans-serif;
+}
+h5{
+  font-family: "papyrus",cursive,sans-serif;
+  color: #ff1744;
+}
+h7{
+  color: #ff1744;
+  font-family: "papyrus",cursive,sans-serif; 
+}
+h8{
+  color: #ff1744;
+  font-family: "papyrus",cursive,sans-serif;
+  font-size: 20;
+}
+li{
+  color: #ff1744;
+  font-family: "papyrus",cursive,sans-serif;
+  text-align: center;
+}

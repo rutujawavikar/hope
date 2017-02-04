@@ -1,0 +1,26 @@
+body
+{
+  background-image: url("https://s-media-cache-ak0.pinimg.com/originals/23/c8/fe/23c8fe5bbce6e72a949d851cc3b3b0ed.jpg");
+  background-position: 50%; 
+}
+h1
+{
+  font-family: "papyrus",cursive,sans-serif;
+  text-align: center;
+  color: pink;
+}
+ul
+{
+  text-align: center;
+  color: purple;   
+}
+h3
+{
+  color: pink;
+}
+section div
+{
+  text-align: center;
+  margin-left: 300px;
+  margin-right: 300px;
+}
